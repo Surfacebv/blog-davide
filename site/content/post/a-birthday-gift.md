@@ -14,3 +14,4 @@ In his book [The Gift](https://www.amazon.com/Gift-Creativity-Artist-Modern-Worl
 
 So bon voyage to this first clump of words 🎁
 
+
