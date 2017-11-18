@@ -2,11 +2,11 @@
 title: 'A birthday gift '
 date: 2017-11-17T23:02:36.492Z
 ---
-I turn 35 today. 
+I turn 35 today.
 
-It feels both early and late in my life. But in the  likely case  I'm mostly just late, here’s a present for myself: a commitment to write, and publish, a blog post every week.
+It feels both early and late in my life. But in the  likely case  I'm mostly just late, here’s a present for myself: a commitment to write and publish a blog post every week.
 
-Writing   unscrambles my thinking, energizes me, and helps me make sense of the world. Everyday, I’ll sit down and write about tech, marketing, information and attention flows, and how these affect our inner lives.
+Writing   unscrambles my thinking, energizes me, and helps me make sense of the world: I write about tech, marketing, information and attention flows, and how these affect our inner lives.
 
 But most of those words never escape the gravitational pull of my private notes app: I  don’t publish them. Here I am,  linked up to 3.8 billion people and counting, on a network designed expressly to make words and images flow, and I don’t even have a blog. Pretty silly.
 
