@@ -13,3 +13,4 @@ In his book [The Gift](https://www.amazon.com/Gift-Creativity-Artist-Modern-Worl
 > *“whatever we have been given is supposed to be given away again, not kept. Or, if it is kept, something of similar value should move on in its stead…The only essential is this: the gift must always move. There are other forms of property that stand still, that mark a boundary or resist momentum, but the gift keeps going.”*
 
 So bon voyage to this first clump of words 🎁
+
