@@ -20,13 +20,11 @@
   {{ else }}
   <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   <meta property="og:title" content="{{ .Title}}">
-  <meta property="og:description" content="{{ .Content}}">
+  <meta property="og:description" content="{{ .Content | truncate 100 }}">
   <meta property="og:type" content="article" />
   <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{ .Content }}">
+  <meta name="twitter:description" content="{{ .Content | truncate 100 }}">
   <meta name="twitter:creator" content="@daveeday" />
-  
-
   {{ end }}
 
   <meta property="og:image" content="https://blog.davideberretta.com/{{ .Site.Params.logo }}">
