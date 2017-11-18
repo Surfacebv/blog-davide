@@ -3,6 +3,7 @@ description = "Leave it blank"
 languageCode = "en-us"
 title = "Davide's blog"
 theme = "hyde"
+googleAnalytics = "UA-28942919-1"
 
 [params]
   description = "leave it blank"
