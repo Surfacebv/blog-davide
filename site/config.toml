@@ -1,7 +1,10 @@
 baseurl = "/"
+description = "Leave it blank"
 languageCode = "en-us"
-title = "Davide's blog: tech, strategy, information & marketing"
+title = "Davide's blog"
 theme = "hyde"
 
 [params]
+  description = "leave it blank"
+  logo = "images/Logo.png"
   themeColor = "theme-base-09"
