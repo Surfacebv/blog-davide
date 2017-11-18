@@ -1,5 +1,5 @@
 ---
-title: A birthday gift
+title: 'A birthday gift '
 date: 2017-11-17T23:02:36.492Z
 ---
 I turn 35 today. It feels both early and late in my life. But in the  likely case  I'm mostly just late, here’s a present for myself: a commitment to write, and publish, a blog post every week.
@@ -13,5 +13,6 @@ In his book [The Gift](https://www.amazon.com/Gift-Creativity-Artist-Modern-Worl
 > *“whatever we have been given is supposed to be given away again, not kept. Or, if it is kept, something of similar value should move on in its stead…The only essential is this: the gift must always move. There are other forms of property that stand still, that mark a boundary or resist momentum, but the gift keeps going.”*
 
 So bon voyage to this first clump of words 🎁
+
 
 
