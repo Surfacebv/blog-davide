@@ -13,7 +13,17 @@
           </h1>
           <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
 
+          
+          {{ if .Truncated }}
+          <!-- This <div> includes a read more link, but only if the summary is truncated... -->
           {{ .Summary }}
+          <div>
+            <a href="{{ .RelPermalink }}">Read More…</a>
+          </div>
+          {{ else }}
+          {{ .Content }}
+          {{ end }}
+    
         </div>
         {{ end }}
       </div>
