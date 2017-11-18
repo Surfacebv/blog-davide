@@ -1,11 +1,10 @@
 baseurl = "/"
-description = "Leave it blank"
 languageCode = "en-us"
 title = "Davide's blog"
 theme = "hyde"
 googleAnalytics = "UA-28942919-1"
 
 [params]
-  description = "leave it blank"
-  logo = "images/Logo.png"
+  description = ""
+  logo = "icons/Logo.png"
   themeColor = "theme-base-09"
