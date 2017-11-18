@@ -6,5 +6,5 @@ googleAnalytics = "UA-28942919-1"
 
 [params]
   description = ""
-  logo = "icons/Logo.png"
+  logo = "icons/logo.png"
   themeColor = "theme-base-09"
