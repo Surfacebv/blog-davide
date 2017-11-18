@@ -20,10 +20,10 @@
   {{ else }}
   <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   <meta property="og:title" content="{{ .Title}}">
-  <meta property="og:description" content="{{ .Content | safeHTML | | truncate 100 }}">
+  <meta property="og:description" content="{{ .Content | safeHTML | truncate 100 }}">
   <meta property="og:type" content="article" />
   <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{ .Content | safeHTML | | truncate 100 }}">
+  <meta name="twitter:description" content="{{ .Content | safeHTML | truncate 100 }}">
   <meta name="twitter:creator" content="@daveeday" />
   {{ end }}
 
