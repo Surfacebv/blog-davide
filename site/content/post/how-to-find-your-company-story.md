@@ -2,8 +2,6 @@
 title: How to find your company story
 date: 2017-11-27T12:35:04.740Z
 ---
-![undefined](/img/blog/cartography-2074079_960_720.png)
-
 Many companies¹ never really find their story. Others try, but settle for a safe, half-baked one.
 
 In these noisy times, half-baked doesn't get you very far. Everywhere you look, people are overloaded with information and with others trying to sell them stuff.
@@ -35,3 +33,4 @@ I mostly work on this with companies, but it could just as easily be a non-profi
 
 \*²
 There are a few exceptions, one of them being if your personal story has made you well known and respected in your industry. \*
+
