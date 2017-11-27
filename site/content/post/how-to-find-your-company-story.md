@@ -36,11 +36,12 @@ To find your story, you will need to put in the work to understand or re-connect
 —
 
 
-*¹
-I mostly work on this with companies, but it could just as easily be a non-profit, a city, a project, a book, or a campaign.*
+¹
+I mostly work on this with companies, but it could just as easily be a non-profit, a city, a project, a book, or a campaign.
 
-*²
-There are a few exceptions, one of them being if your personal story has made you well-known and respected in your industry. *
+²
+There are a few exceptions, one of them being if your personal story has made you well-known and respected in your industry.
+
 
 
 
