@@ -673,14 +673,18 @@ a.sidebar-nav-item:focus {
   justify-content: space-around;
 }
 
-// .social-icons a {
-//   display: block;
-// }
+.social-icons {
+  margin: 8px 0;
+}
 
-.social-icons img {
-  height: 34px;
-  width: 34px;
+div.icon {
+  margin: 0;
+  height: 30px !important;
+  width: 30px !important;
   display: block;
+}
+.icon img {
+  width: 100%;
 }
 
 @media screen and (min-width: 768px) {
