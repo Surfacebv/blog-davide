@@ -660,9 +660,6 @@ a.sidebar-nav-item:focus {
 /* HYDE THEME END */
 
 /* MAIN CSS START */
-.hide-mobile {
-  display: none;
-}
 .row {
   display: flex;
   flex-direction: row;
@@ -688,12 +685,7 @@ div.icon {
 }
 
 @media screen and (min-width: 768px) {
-  .hide-mobile.flex {
-    display: flex;
-    flex: 1;
-  }
   .row a {
-    // display: inline-block;
     margin-right: 16px;
   }
   .row.space-around {
