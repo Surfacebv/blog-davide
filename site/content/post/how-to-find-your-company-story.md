@@ -33,7 +33,7 @@ So here's a few ideas to help you get starte on spotting your company story:
 
 To find your story, you will need to put in the work to understand or re-connect with the many different angles of the problem you are trying to solve. That work, it turns out, will give you an edge in almost every single aspect of your business.
 
--
+---
 
 
 ¹
