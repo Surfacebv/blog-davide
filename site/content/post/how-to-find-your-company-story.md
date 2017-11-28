@@ -24,7 +24,7 @@ Companies exist to solve problems in the marketplace. That is their only purpose
 
 Problems sit at the juncture where markets, companies and people meet: they are knotty, multi-faceted, and phenomenally rich in insights about the world we live in. A well-defined, fully-understood problem is a gold mine for stories.
 
-So here's a few ideas to help you begin to spot your company story:
+So here's a few ideas to help you get starte on spotting your company story:
 
 * Try to build a [problem maze](http://cdixon.org/2013/08/04/the-idea-maze/)   
 * Distill your company's initial core insight into the problem: how has the problem changed since then?
@@ -33,14 +33,18 @@ So here's a few ideas to help you begin to spot your company story:
 
 To find your story, you will need to put in the work to understand or re-connect with the many different angles of the problem you are trying to solve. That work, it turns out, will give you an edge in almost every single aspect of your business.
 
-—
+-
 
 
-*¹
-I mostly work on this with companies, but it could just as easily be a non-profit, a city, a project, a book, or a campaign.*
+¹
+I mostly work on this with companies, but it could just as easily be a non-profit, a city, a project, a book, or a campaign.
 
-*²
-There are a few exceptions, one of them being if your personal story has made you well-known and respected in your industry. *
+²
+There are a few exceptions, one of them being if your personal story has made you well-known and respected in your industry.
+
+--
+
+Get these posts via email by signing up [here](http://eepurl.com/cSDdRr)
 
 
 
