@@ -12,12 +12,12 @@ On the other, there's the humanists: they value stories, empathy, and taste. The
 
 These two groups mistrust each other. 
 
-Many optimizers believe humanists are at best ineffective, and at worst, lazy charlatans, hiding behind the fact that their work "cannot be measured". Many humanists on the other hand, see optimizers as short-term thinkers, missing the big picture, constantly chasing the latest distribution fad, while eroding the trust that exists on the web by stalking and tricking users. 
+Many optimizers believe humanists are at best ineffective, and at worst, lazy charlatans, hiding behind the fact that their work "cannot be measured". Many humanists see optimizers as short-term thinkers who miss the big picture, constantly chasing the latest distribution fad, while eroding trust on the web by stalking and tricking users. 
 
 Both are, to some extent, right. 
 
 But. The reason these two mistrust each other is because this split in marketing has left their managers confused: the two sides compete for the same marketing budget, and organizations will often judge the optimizers' work with humanist metrics, or vice versa. 
 
-These are two different roles, with complementary functions. In the ferocious battle for attention and resonance that is being waged online, you will need both. Re-align incentives in your company, or hire for what you are missing: you'll see mistrust evaporate, and powerful ideas begin to spread.
+These are two different roles, with complementary functions. In the ferocious battle for attention and resonance that is being waged online, you will need both. Re-align incentives in your company, or hire according to what you are missing: you'll see mistrust evaporate, and powerful ideas begin to spread.
 
 
