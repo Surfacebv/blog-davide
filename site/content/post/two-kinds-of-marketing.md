@@ -2,7 +2,7 @@
 title: Two kinds of marketing
 date: 2017-12-06T13:04:42.556Z
 ---
-"Modern marketing, the craft of getting ideas to spread, has split." [says Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/05/please-understand.html). 
+"Modern marketing, the craft of getting ideas to spread, has split," says [Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/05/please-understand.html). 
 
 <!--more-->
 
