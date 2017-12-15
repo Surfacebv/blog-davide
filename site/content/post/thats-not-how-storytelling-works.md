@@ -4,6 +4,8 @@ date: 2017-12-15T16:14:48.495Z
 ---
 Sometimes, I'll be working with a team on a presentation, or an important piece of writing. Inevitably, someone will suggest: "let's add a little storytelling."
 
+<!--more-->
+
 What this person means is: let's add, somewhere, a small anecdote that exemplifies what we are talking about, to make this content more engaging, and increase the chances it might resonate with the intended audiences. 
 
 But that's not how stories work. 
