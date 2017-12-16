@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Davide's blog"
 theme = "hyde"
-googleAnalytics = "UA-28942919-1"
+googleAnalytics = "UA-111281648-1"
 
 [params]
   description = ""
