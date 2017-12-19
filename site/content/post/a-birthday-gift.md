@@ -4,6 +4,8 @@ date: 2017-11-17T23:02:36.492Z
 ---
 I turn 35 today.
 
+<!--more-->
+
 It feels both early and late in my life. But in the  likely case  I'm mostly just late, here’s a present for myself: a commitment to write and publish a blog post every week.
 
 Writing   unscrambles my thinking, energizes me, and helps me make sense of the world: I write about tech, marketing, information and attention flows, and how these affect our inner lives.
