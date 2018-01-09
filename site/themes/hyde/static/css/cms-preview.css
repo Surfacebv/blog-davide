@@ -1,0 +1,32 @@
+@import 'main.css';
+
+.cms__PreviewPane__frame article {
+	padding: 16px;
+}
+
+.cms__PreviewPane__frame article a {
+	color: #d28445;
+}
+
+.cms__PreviewPane__frame article {
+	margin-bottom: 4em;
+}
+
+.cms__PreviewPane__frame article img {
+	margin: 4px auto;
+	max-height: 40vh;
+}
+
+@media screen and (min-width: 58em) {
+	.cms__PreviewPane__frame article img.float-right,
+	.cms__PreviewPane__frame article img.float-left {
+		max-width: 48%;
+		margin: 4px;
+	}
+	.cms__PreviewPane__frame article img.float-right {
+		float: right;
+	}
+	.cms__PreviewPane__frame article img.float-left {
+		float: left;
+	}
+}
