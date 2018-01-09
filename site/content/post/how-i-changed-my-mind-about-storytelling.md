@@ -2,7 +2,7 @@
 title: How I changed my mind about stories
 date: 2018-01-09T14:53:03.764Z
 ---
-I used to roll my eyes at people talking about "storytelling" and "the power of story." 
+I used to roll my eyes at people talking about "storytelling," or "the power of story." 
 
 <!--more-->
 
@@ -10,21 +10,23 @@ That's odd, in retrospect.
 
 When I was as a journalist, my job was to find interesting [stories](http://davideberretta.tumblr.com/writings), and then write them out, packing in facts, quotes, context, and a few anecdotes.  
 
-And later as a founder, I found myself in the role of storyteller-in-chief. My job there was to tell our company story persuasively, to users, customers, investors, journalists, teammates, myself: I had a different one for each, and I even had a story for myself. 
+And later as a founder, I found myself in the role of storyteller-in-chief. My job there was to tell our company story persuasively, to users, customers, investors, journalists, teammates, myself: I had a different one for each. I even had a story for myself. 
 
-Of course, I knew that good stories were powerful. At the dinner table, on the screen, on stage or in a book, good stories create an irresistible magnetism. I saw Obama, Adidas, and [Jill Soloway](https://www.newyorker.com/magazine/2015/12/14/dolls-and-feelings) spinning their stories to great success, and I saw myself spinning mine. 
+Of course, I understood that good stories were powerful. At the dinner table, on the screen, on stage or in a book, good stories create an irresistible magnetism.  
 
-But I still didn't "get" stories. I had a hard time separating those stories from the money, glamour, and charisma that they came wrapped up in. So when I heard people talk about "storytelling," I ran, knowing for sure they were about to try and sell me something.  
+But I still didn't "get" stories. I saw Obama, Adidas, and [Jill Soloway](https://www.newyorker.com/magazine/2015/12/14/dolls-and-feelings) spinning their stories with great success, but I had a hard time separating those from the money, glamour, and charisma that they came wrapped up in. So when I heard people talk about "storytelling," I ran, knowing for sure they were about to try and sell me something.  
 
-Then a few years later, I heard Ben Thompson say something very smart, about marketing, myth-making, and stories:
+Then a few years later, I heard Ben Thompson say something very smart, about marketing and myth-making:
 
 >"Lots of people like to complain about marketing, it’s all fluff, and brands, blah blah blah. 
 
 >Yes it *is* all fluff! Everything’s all fluff! That’s the point! It’s turtles all the way down. It’s all myths. It’s myths on top of myths… On a concrete business basis... that’s why advertising matters, because this sort of stuff is real, in that people have collectively decided that it’s real and that’s plenty enough."
 
-Something clicked. The [conversation](https://soundcloud.com/exponentfm/episode-116-blockchain-2#t=11m32s) was about about money, and how with the rise of bitcoin and other cryptocurrencies, a lot of people are beginning to see it as the social fiction that it is. But I began to see how it applied to most everything else. 
+Something clicked. The [conversation](https://soundcloud.com/exponentfm/episode-116-blockchain-2#t=11m32s) was about how people –thanks to the rise of bitcoin and other cryptocurrencies– are beginning to see money as the social fiction that it is: it's worth something only because we all agree that it is worth something.   
 
-For instance, [it resonated with the idea](http://www.meltingasphalt.com/ads-dont-work-that-way/) that advertising doesn't exist to make you buy things right there and then, but rather to create a shared reality of what a product means, so that people can reference it when making buying choices. 
+But I began to see how that applied to most everything else. 
+
+For instance, it resonated [with the idea](http://www.meltingasphalt.com/ads-dont-work-that-way/) that advertising doesn't exist to make you buy things right there and then, but rather to create a shared reality of what a product means, so that people can reference it when making buying choices. 
 
 But that was just a small part of the puzzle. In that podcast, Thompson keeps citing [Sapiens](https://www.amazon.com/dp/B00ICN066A/), the cult book by Israeli historian Yuval Noah Harari. I had heard so many people recommend it that I went ahead and bought it.
 
@@ -51,3 +53,4 @@ The most successful stories are baked into our minds, serving as the shared cogn
 As a founder, I had gone down in the trenches of story and seen the man behind the curtain, which in this case, was me. I grappled every day with the inescapable truth that founders have to face: your venture is entirely sustained by your belief in the story you have created, and by how vigorously you are able to bring this vision to bear on the world around you. 
 
 Little did I know that I was on the right path, and that's precisely how society gets made. Company myth-making is an act of willing a company into reality. Don't stop believin', or it will all deflate and crumple up, like a sad pricked balloon.
+
