@@ -312,10 +312,10 @@ tbody tr:nth-child(odd) th {
 	max-height: 40vh;
 }
 
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 58em) {
 	.post img.float-right,
 	.post img.float-left {
-		max-width: 24%;
+		max-width: 48%;
 		margin: 4px;
 	}
 	.post img.float-right {
