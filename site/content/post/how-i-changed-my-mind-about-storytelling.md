@@ -10,7 +10,7 @@ When I was as a journalist, my job was to find interesting "stories", and then w
 
 And later as a founder, I found myself in the role of storyteller-in-chief. My job there was to tell our company story persuasively, to users, customers, investors, journalists, teammates, myself: I had a different one for each, and I even had a story for myself. 
 
-https://cdn-images-1.medium.com/max/1480/1*8LayfxRyQ29RMGlhKW-meg.jpeg
+(!)[https://cdn-images-1.medium.com/max/1480/1*8LayfxRyQ29RMGlhKW-meg.jpeg]
 
 Of course, I knew that good stories were powerful. At the dinner table, on the screen, on stage or in a book, good stories create an irresistible magnetism, capturing people's attention and sometimes even persuading them of a new idea. I saw Obama, Adidas, and [Jill Soloway](https://www.newyorker.com/magazine/2015/12/14/dolls-and-feelings) spinning their stories to great success, and I saw myself spinning mine. 
 
@@ -49,6 +49,7 @@ Stories are so powerful and ubiquitous that we don't even see them as stories an
 As a founder, I had gone down in the trenches of story and seen the man behind the curtain, because in this case, it was me. I grappled every day with the inescapable truth that founders have to face: our entire venture was entirely sustained by our belief in this story and how vigorously we were able to bring it to bear on the world around us. 
 
 Little did I know that I was on the right path, and that's precisely how society gets made. Company myth-making is an act of willing a company into reality. Don't stop believing, or it will all deflate and crumple up, like a sad pricked balloon.
+
 
 
 
