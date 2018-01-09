@@ -55,3 +55,5 @@ As a founder, I had gone down in the trenches of story and seen the man behind t
 Little did I know that I was on the right path, and that's precisely how society gets made. Company myth-making is an act of willing a company into reality. Don't stop believin', or it will all deflate and crumple up, like a sad pricked balloon.
 
 
+----
+*P.S. I write posts like this one every week, you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)*
