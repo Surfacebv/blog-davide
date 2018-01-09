@@ -5,12 +5,13 @@
 }
 
 //date
-.frame-content div > div:nth-child(2) {
+.frame-content > div > div:nth-child(2) {
 	display: block;
 	margin-top: -.5rem;
 	margin-bottom: 1rem;
 	color: #9a9a9a;
 }
+
 article a {
 	color: #d28445;
 }
