@@ -1,5 +1,5 @@
 ---
-title: How I changed my mind about storytelling
+title: How I changed my mind about stories
 date: 2018-01-09T14:53:03.764Z
 ---
 I used to roll my eyes at people talking about "storytelling" and "the power of story." 
@@ -46,9 +46,10 @@ For me, this was a eureka moment that lasted several months: it all started to c
 
 Stories are so powerful and ubiquitous that we don't even see them as stories anymore. The most successful stories are baked into our minds, serving as the shared cognitive infrastructure of society: the state, money, religions, the law, companies are all fantastically successful stories, and branding, advertising, schooling, the military, journalism, and critical theory are all methods that serve to build up, analyze or deconstruct them. 
 
-As a founder, I had gone down in the trenches of story and seen the man behind the curtain, because in this case, it was me. I grappled every day with the inescapable truth that founders have to face: our entire venture was entirely sustained by our belief in this story and how vigorously we were able to bring it to bear on the world around us. 
+As a founder, I had gone down in the trenches of story and seen the man behind the curtain, because in this case, it was me. I grappled every day with the inescapable truth that founders have to face: our venture was entirely sustained by our belief in our story, and by how vigorously we were able to bring this vision to bear on the world around us. 
 
 Little did I know that I was on the right path, and that's precisely how society gets made. Company myth-making is an act of willing a company into reality. Don't stop believing, or it will all deflate and crumple up, like a sad pricked balloon.
+
 
 
 
