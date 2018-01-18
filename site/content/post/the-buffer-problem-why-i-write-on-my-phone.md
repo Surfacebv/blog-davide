@@ -1,7 +1,6 @@
 ---
 title: 'The buffer problem: why I write on my phone'
 date: 2018-01-18T16:18:37.937Z
-image: /img/blog/progress buffering bar.png
 ---
 Writing, like speaking, is often a form of thinking.
 
