@@ -1,7 +1,7 @@
 ---
 title: 'The buffer problem: why I write on my phone'
 date: 2018-01-18T16:18:37.937Z
-image: null
+image: /img/blog/progress buffering bar.png
 ---
 Writing, like speaking, is often a form of thinking.
 
@@ -12,6 +12,8 @@ Ideas don’t live in our brains as words, phrases, and paragraphs: they acquire
 A same idea will be molded differently if I speak it, write it, draw it, or act it out on a stage. 
 
 The context in which this molding happens also greatly affects the output: in conversation, a focused, empathetic listener sustains our intuitions, helping us build them out. 
+
+
 
 Since I began writing again, I've thought about how different technologies incentivize different kinds of ideas, and I noticed how a lot of my best writing was being typed up on my phone. 
 
@@ -30,3 +32,4 @@ Compared to laptop writing, it is physically difficult, it even hurts after a wh
 ––
 
 *P.S. I write posts like this one every week, you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)*
+
