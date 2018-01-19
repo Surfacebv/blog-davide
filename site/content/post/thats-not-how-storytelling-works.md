@@ -18,3 +18,5 @@ Most corporate storytelling, on the other hand, misses the mark: the stakes are 
 
 Put in the work to make people care, baking story into your core company strategy. Or, if you are not ready to do that, skip the anecdote and focus on communicating with clarity. 
 
+––
+*P.S. I write posts like this one every week, you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)*

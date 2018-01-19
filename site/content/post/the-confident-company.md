@@ -24,3 +24,6 @@ It's hard work, but it pays off. It's one of the reasons why Apple beats a formi
 ) ([47](
 https://npsbenchmarks.com/companies/samsung
 ) to 89) and in market capitalization (roughly 3 times Samsung).
+
+––
+*P.S. I write posts like this one every week, you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)*
