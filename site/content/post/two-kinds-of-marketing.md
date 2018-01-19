@@ -20,4 +20,8 @@ But. The reason these two mistrust each other is because this split in marketing
 
 These are two different roles, with complementary functions. In the ferocious battle for attention and resonance that is being waged online, you will need both. Re-align incentives in your company, or hire according to what you are missing: you'll see mistrust evaporate, and powerful ideas begin to spread.
 
+––
+
+*P.S. I write posts like this one every week, you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)*
+
 
