@@ -2,9 +2,7 @@
 title: Microphone
 date: 2017-12-29T13:45:08.125Z
 ---
-The Web is the biggest microphone in the history of humanity. 
-
-<!--more-->
+The Web is the biggest microphone in the history of humanity. <!--more-->
 
 3.8 billion people [and counting](http://www.internetlivestats.com/internet-users/), all plugged into a network that is designed to make people talk to each other.
 
