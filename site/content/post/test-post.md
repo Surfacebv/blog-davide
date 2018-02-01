@@ -5,6 +5,6 @@ image: /img/blog/louis_look (1).gif
 ---
 Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. 
 
-![Casablanca](/img/blog/louis_look (1).gif)
+![Casablanca](/img/blog/louis_look (1).gif "Casablanca")
 
 Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout. Testing image layout.
