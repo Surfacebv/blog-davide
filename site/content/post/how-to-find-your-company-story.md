@@ -1,6 +1,7 @@
 ---
 title: How to Find Your Company Story
 date: 2017-11-27T12:35:04.740Z
+image: /img/blog/cartography-2074079_960_720.png
 ---
 Many companies¹ never find their story. Others try, but settle for a safe, half-baked one.
 
