@@ -35,6 +35,9 @@
   {{ if .Params.image }}
     <meta property="og:image" content="https://blog.davideberretta.com{{ .Params.image }}">
     <meta name="twitter:image" content="https://blog.davideberretta.com{{ .Params.image }}">
+    <meta name="twitter:card" content="summary_large_image">
+  {{ else }}
+    <meta name="twitter:card" content="summary">
   {{ end }}
   <meta property="og:image" content="https://blog.davideberretta.com/{{ .Site.Params.logo }}">
   <meta property="og:image:type" content="image/png" />
@@ -42,7 +45,7 @@
   <meta property="og:image:height" content="142" />
 
   <meta name="twitter:image" content="https://blog.davideberretta.com/{{ .Site.Params.logo }}">
-  <meta name="twitter:card" content="summary">
+  
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
