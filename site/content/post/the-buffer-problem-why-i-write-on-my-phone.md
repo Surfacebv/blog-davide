@@ -11,8 +11,9 @@ Ideas don’t live in our brains as words, phrases, and paragraphs: they acquire
 
 A same idea will be molded differently if I speak it, write it, draw it, or act it out on a stage. 
 
-The context in which this molding happens also greatly affects the output: in conversation, a focused, empathetic listener sustains our intuitions, helping us build them out. 
+![buffer](img/blog/progress_buffering_bar.png)
 
+The context in which this molding happens also greatly affects the output: in conversation, a focused, empathetic listener sustains our intuitions, helping us build them out. 
 
 Since I began writing again, I've been thinking about how different technologies incentivize different kinds of ideas, and I noticed how a lot of my best writing was being typed up on my phone. 
 
