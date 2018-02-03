@@ -11,7 +11,7 @@ Over the past 7 years, the vast majority of my work has happened remotely. That'
 
 ![The Fleisure team](/img/blog/team_fleisure_cremona.jpg)
 
-<sub><sup>_Team Fleisure on top of the "_[_Torrazzo_](https://en.wikipedia.org/wiki/Torrazzo_of_Cremona)_" in Cremona during our yearly in-person meetup: _[_Davide_](https://it.linkedin.com/in/davidepisauri/en)_, _[_Simone_](https://tellini.info/)_, Davide (me) & _[_Alexander_](https://ackushiw.com/)_ –  no Alessandro this time around.</sup></sub> _
+<sub><sup>_Team Fleisure on top of the "_[_Torrazzo_](https://en.wikipedia.org/wiki/Torrazzo_of_Cremona)_" in Cremona during our yearly in-person meetup: _[_Davide_](https://it.linkedin.com/in/davidepisauri/en)_, _[_Simone_](https://tellini.info/)_, Davide (me) & _[_Alexander_](https://ackushiw.com/)_. Sadly, no Alessandro this time around.</sup></sub> _
 
 It's not easy. Working remotely does not benefit from the decades of accumulated wisdom and best practices that have grown organically around office work. 
 
@@ -27,8 +27,8 @@ I'll add my two cents. In my experience, once a remote team is in place, manager
    The 
 3. **Strong Bonds**: remote work makes it harder for people working together to build the strong, life-long bonds that often naturally emerge between people working in the same physical space for months at a time.\
    \
-   The solution here, of course, is to meet up often. Road trips together  help. 
+   The solution here, of course, is to meet up as often as possible. 
 
-\---
+–––
 
 P.S. I write posts like this one every week, you can sign up to [get them via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)
