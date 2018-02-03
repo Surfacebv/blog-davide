@@ -309,7 +309,7 @@ tbody tr:nth-child(odd) th {
 
 .post img {
 	margin: 4px auto;
-	max-height: 40vh;
+	max-height: 62vh;
 }
 
 @media screen and (min-width: 58em) {
