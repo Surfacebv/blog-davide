@@ -13,7 +13,7 @@ That's true for my consulting practice, as well as for [Fleisure](https://weekly
 
 ![The Fleisure team](/img/blog/team_fleisure_cremona.jpg)
 
-<sub><sup>_Team Fleisure on top of the "_[_Torrazzo_](https://en.wikipedia.org/wiki/Torrazzo_of_Cremona)_" in Cremona during our yearly in-person retreat: _[_Davide_](https://it.linkedin.com/in/davidepisauri/en)_, _[_Simone_](https://tellini.info/)_, Davide (me) & _[_Alexander_](https://ackushiw.com/)_. Alessandro is way, way in the background.</sup></sub> _
+<sub><sup>_Team Fleisure on top of the "_[_Torrazzo_](https://en.wikipedia.org/wiki/Torrazzo_of_Cremona)_" in Cremona during our yearly in-person retreat: _[_Davide_](https://it.linkedin.com/in/davidepisauri/en)_, _[_Simone_](https://tellini.info/)_, Davide (me) & _[_Alexander_](https://ackushiw.com/)_. Alessandro is way, way in the background. </sup></sub> _
 
 But while working remotely can afford immense benefits to both individuals and organization, it's not easy. For one thing, it does not benefit from the decades of accumulated wisdom and best practices that have grown organically around office work. 
 
