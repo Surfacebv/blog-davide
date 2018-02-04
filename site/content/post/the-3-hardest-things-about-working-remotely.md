@@ -1,5 +1,5 @@
 ---
-title: The hard part about working remotely
+title: The 3 downsides of working remotely
 date: 2018-02-02T22:26:33.938Z
 image: /img/blog/team_fleisure_cremona.jpg
 ---
