@@ -3,13 +3,12 @@ title: The hard part about working remotely
 date: 2018-02-02T22:26:33.938Z
 image: /img/blog/team_fleisure_cremona.jpg
 ---
-I love working remotely. 
-
-And over the past 7 years, I've been lucky enough to have most of my work happen from different desks in New York, Montreal, Brussels, Paris, or Milan.
+Over the past 7 years, I've been lucky enough to have most of my work happen remotely\
+desks in New York, Montreal, Buenos Aires,  Brussels, Paris, and Milan. 
 
 <!--more-->
 
-That's true for my consulting practice, as well as for [Fleisure](https://weekly.fleisure.com), whose team is fully distributed between New York, Milan, and the small town of Guastalla (pop. 15K) in Italy.  
+That has been true for my consulting practice, as well as for [Fleisure](https://weekly.fleisure.com), whose team is fully distributed between New York, Milan, and the small town of Guastalla (pop. 15K) in Italy.  
 
 ![The Fleisure team](/img/blog/team_fleisure_cremona.jpg)
 
@@ -23,12 +22,13 @@ I'll add my two cents. In my experience, once a remote setup is in place, teams 
 
 1. **Communication deficit**: there is a high chance that a communication deficit may build up among the team, with small misunderstandings compounding one another. \
    \
-   [One-on-ones](https://a16z.com/2012/08/30/one-on-one/) help, but I believe best way to address this problem is to encourage each person to always over-communicate with each other. Creating an environment in which over-communicating is accepted as a practice to avoid misunderstandings is an antidote to people finding it annoying, pushy or patronizing.     
-2. **Big Idea freeze**: ideas just don't flow as easily in your work chat, Github, Skype, Zoom and Google Docs, as when face-to-face. I've noticed that people will focus on communication, problem-solving and execution, and big picture thinking will take a back seat. Even one-on-ones don't allow for too much improvisation, as they usually follow an agenda\
+   [One-on-ones](https://a16z.com/2012/08/30/one-on-one/) help, but I believe best way to address this problem is to encourage every one on the team to always over-communicate with each other.\
+   Creating an environment in which over-communication is accepted as a necessary practice to avoid misunderstandings is an antidote to people finding it annoying or patronizing.     
+2. **Big Idea freeze**: ideas just don't flow as easily in your work chat, Zoom and Google Docs as when face-to-face. Remotely, people will naturally focus on communication, problem-solving and execution, and big picture thinking will take a back seat. Even one-on-ones don't allow for too much improvisation, as they are dedicated to knocking off items off a list and catching up.\
    \
-   I do not have great solutions for this yet, and I would love to hear from others:  is asking a lot of big-picture questions on work chat channels.  
+   I do not have great solutions for this yet, but asking a lot of open-ended, big-picture questions in the work chat can help. 
 
-3. **Weaker Bonds**: one of the joys of the modern workplace is that humans working together in a pleasant environment tend to naturally build strong, life-long bonds. Working remotely, the chances of this happening are lower: with less face time, bonds don't build up as easily. \
+3. **Weaker Bonds**: humans working together in a pleasant environment tend to naturally build strong, life-long bonds. With less face time, the chances of this happening are lower.  \
    \
    The solution here, of course, is to meet up as often as possible. Even just a yearly meet-up in a different location has done wonders for our ability to connect with each other on many different levels. 
 
