@@ -1,6 +1,7 @@
 ---
 title: 'A birthday gift '
 date: 2017-11-17T23:02:36.492Z
+social_summary: "\U0001F381 It's my birthday!"
 ---
 I turn 35 today.
 
