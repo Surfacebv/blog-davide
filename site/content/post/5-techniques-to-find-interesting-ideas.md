@@ -1,7 +1,9 @@
 ---
-title: 5 techniques to find interesting ideas
+title: 5 techniques I use to find interesting ideas
 date: 2018-02-27T19:32:40.009Z
-social_summary: Or how
+social_summary: >-
+  If these are good enough for Stewart Brand, they're likely good enough for you
+  too :)
 image: /img/blog/philosophy_consoling_boethius.jpg
 ---
 <!--more-->
@@ -14,7 +16,7 @@ Patrick is the founder and CEO of uber-unicorn [Stripe](https://stripe.com): he'
 
 I answered with a [short list](https://twitter.com/daveeday/status/967563298773323776) of techniques I use, which seemed to resonate with Patrick and the very smart people who follow him. In fact, I'm mostly writing this blog post in order to let you know that [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) liked my tweet. 
 
-![Philosophy vs Boethius](/img/blog/philosophy_consoling_boethius.jpg)
+![Philosophy & Boethius](/img/blog/philosophy_consoling_boethius.jpg)
 
 But I digress. Here are the techniques I use to come across interesting ideas: 
 
