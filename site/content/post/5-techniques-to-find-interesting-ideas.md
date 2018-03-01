@@ -12,7 +12,7 @@ The founder of [Stripe](https://stripe.com) asked the following question on Twit
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I answered with a short list of techniques I use, which seemed to resonate with his very smart following. In fact, I'm mostly writing this post to let you know that [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) liked my tweet. 
+I answered with a [short list](https://twitter.com/daveeday/status/967563298773323776) of techniques I use, which seemed to resonate with his very smart following. In fact, I'm mostly writing this post to let you know that [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand) liked my tweet. 
 
 ![Philosophy & Boethius](/img/blog/philosophy_consoling_boethius.jpg)
 
