@@ -29,7 +29,9 @@ Here are the 5 techniques I use to consistently stumble onto interesting ideas:
 
 How do you find new interesting ideas? Let me know on [Twitter](https://twitter.com/daveeday).
 
-_Image: Philosophy Consoling Boethius And Fortune Turning The Wheel, by Coëtivy Master (Henri de Vulcop?). 1460-1470._ _[_Source: Getty Museum_](http://www.getty.edu/art/collection/objects/127275/coetivy-master-henri-de-vulcop-philosophy-consoling-boethius-and-fortune-turning-the-wheel-french-about-1460-1470/)._
+--
 
 _P.S. Every week, I write about marketing, startups, information and stories: you can sign up to [get these posts via email here](http://fleisure.us6.list-manage2.com/subscribe?u=1b57ff432660d827a9445f307&id=db415544cc)_
+
+_Image: Philosophy Consoling Boethius And Fortune Turning The Wheel, by Coëtivy Master (Henri de Vulcop?). 1460-1470._ [_Source: Getty Museum_](http://www.getty.edu/art/collection/objects/127275/coetivy-master-henri-de-vulcop-philosophy-consoling-boethius-and-fortune-turning-the-wheel-french-about-1460-1470/).
 
