@@ -1,7 +1,7 @@
 ---
-title: 5 techniques I use to find interesting ideas
+title: 5 Techinques I Use to Stumble Onto Interesting Ideas
 date: 2018-02-27T19:32:40.009Z
-social_summary: On the hunt for shifts in perspective
+social_summary: Sometimes you need new ones
 image: /img/blog/philosophy_consoling_boethius.jpg
 ---
 <!--more-->
@@ -16,7 +16,7 @@ I answered with a short list of techniques I use, which seemed to resonate with 
 
 ![Philosophy & Boethius](/img/blog/philosophy_consoling_boethius.jpg)
 
-But I digress. Here are the 5 techniques I use to stumble onto interesting ideas:  
+But I digress. Here are the 5 techniques I use to consistently stumble onto interesting ideas:  
 
 1. **Libraries/bookstores**: the trick here is to stay away from the sections I would usually gravitate towards. I wander through the stacks, pick up a book, or even better a trade magazine on something I know nothing about (e.g. agricultural biotechnology, Iranian philosophy) and leaf through it randomly until I see something that piques my interest.
 
