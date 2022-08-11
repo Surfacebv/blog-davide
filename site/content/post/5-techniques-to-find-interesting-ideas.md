@@ -1,5 +1,5 @@
 ---
-title: The 5 techniques I use to stumble onto interesting ideas
+title: Finding interesting ideas
 date: 2018-02-27T19:32:40.009Z
 social_summary: Sometimes you just need new ones
 image: /img/blog/philosophy_consoling_boethius.jpg
