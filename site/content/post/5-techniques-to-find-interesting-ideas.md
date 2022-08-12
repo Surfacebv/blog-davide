@@ -8,9 +8,8 @@ Where do you find new ideas?
 
 ![Philosophy & Boethius](/img/blog/philosophy_consoling_boethius.jpg)
 
-But I digress. 
-
-Here are the 5 techniques I use to consistently stumble onto interesting ideas:  
+\
+Here are the a few techniques I use to consistently stumble onto new ideas:  
 
 1. **Libraries/bookstores**: the trick here is to stay away from the sections I would usually gravitate towards. I wander through the stacks, pick up a book, or even better a trade magazine, on something I know nothing about (e.g. agricultural biotechnology, Iranian philosophy) and leaf through it randomly until I see something that piques my interest.
 2. **Google Images**: I will often grapple with abstract concepts I can't quite wrap my head around, or just want to understand better (e.g. [cryptographic hashes](https://www.google.com/search?biw=1319&bih=718&tbm=isch&sa=1&ei=FEWSWve8OML4_AbkmrX4Bw&q=cryptographic+hash), or [mental models](https://en.wikipedia.org/wiki/Mental_model)). Running a Google Image search of that phrase shows me all sorts of visual interpretations of that concept, helping me see it from many different angles. Another idea is to [run that search in different languages](https://twitter.com/adgro/status/968039298334371840) to see different cultural takes on the concept. 
